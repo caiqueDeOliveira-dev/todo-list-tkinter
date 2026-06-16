@@ -1,7 +1,7 @@
 # 📝 To-Do List Desktop (Tkinter)
 
 <p align="center">
-  <img src="./screenshot.png.png" alt="Interface do To-Do List" width="600px" />
+  <img src="./screenshot.png" alt="Interface do To-Do List" width="600px" />
 </p>
 
 Uma aplicação desktop moderna e intuitiva para gerenciamento de tarefas diárias, desenvolvida em **Python** utilizando a biblioteca gráfica **Tkinter**. O sistema conta com persistência de dados local, garantindo que as suas tarefas fiquem salvas mesmo após fechar o aplicativo.
